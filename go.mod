@@ -1,3 +1,3 @@
-module gt
+module github.com/SKh87/gt
 
 
